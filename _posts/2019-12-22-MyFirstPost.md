@@ -1,1 +1,4 @@
-My FIrst Post
+---
+title: "Welcome to my blog"
+date: 2019-12-22
+---
